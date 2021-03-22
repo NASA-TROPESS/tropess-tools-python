@@ -26,7 +26,7 @@ brew install wget curl
 
 ## Anaconda
 
-Install Anaconda 3. To get the default working environment answer `yes` to all questions (recommended):
+Install [Anaconda 3](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html). To get the default working environment (recommended), answer `yes` to all questions when asked:
 
 ```bash
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh

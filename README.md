@@ -1,11 +1,23 @@
 # tropess-tools
 How to use TROPESS products from Python
 
-> Shell scripts are `bash`
-
-## Setup Data Access
+## Data Access
 
 See [Data Access](./docs/data-access.md)
+
+## Python Environment
+
+### macOS
+
+See [setup for macOS](./docs/setup-mac.md)
+
+### Windows
+
+See [setup for Windows](./docs/setup-windows.md)
+
+### Linux
+
+See [setup for Linux](./docs/setup-linux.md)
 
 ## Visual Studio Code
 

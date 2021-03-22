@@ -12,13 +12,15 @@ Install the Apple Command Line Tools:
 xcode-select --install
 ```
 
+## Homebrew
+
 Install [Homebrew](https://brew.sh/):
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Install required packages:
+Install packages:
 
 ```bash
 brew install wget curl
@@ -57,7 +59,7 @@ conda activate tropess
 EOT
 ```
 
-## Packages
+## Anaconda Packages
 
 Install the following Anaconda packages:
 
